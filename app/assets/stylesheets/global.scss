@@ -1,0 +1,10 @@
+$titleFont: "PT Serif";
+$bodyFont: "Helvetica";
+
+body {
+  font-family: $bodyFont
+}
+
+h1, h2 {
+  font-family: $titleFont
+}
